@@ -1,0 +1,36 @@
+html,
+body,
+.page-login {
+    min-height: 100vh;
+}
+.page-login {
+    background-color: #f7f7f7;
+    padding-top: 50px;
+}
+.login-title {
+    color: #2a323c;
+    text-align: center;
+    padding: 20px 0 0;
+}
+.login-title h3 {
+    margin: 0 0 30px 0;
+}
+.login-title p {
+    font-weight: bold;
+    color: #898989;
+    margin: 0;
+}
+.login-box {
+    margin: 0 auto;
+    max-width: 400px;
+    border-radius: 5px;
+    background-color: #fff;
+}
+.login-form {
+    padding: 20px 30px;
+    border: 0;
+}
+.login-form button {
+    display: block;
+    width: 100%;
+}
